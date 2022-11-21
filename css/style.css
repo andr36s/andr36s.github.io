@@ -1,0 +1,73 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Anton", sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+p {
+  font-family: "PT Sans", sans-serif;
+  font-size: 18px;
+}
+
+.nav {
+  background: rgb(255, 255, 255, 0.7);
+  width: 100%;
+  z-index: 100;
+  position: relative;
+  padding: 0.6em;
+  margin-top: 1em;
+}
+
+.nav-link {
+  color: #6e07f3;
+  border: 3px solid #6e07f3;
+  font-size: 18px;
+  border-radius: 3em;
+  margin-right: 30px;
+}
+
+.nav-proyectos {
+  color: black;
+  border: none;
+  border-radius: 3em;
+  margin-right: 20px;
+}
+
+.nav-link:hover {
+  background-color: #6e07f3;
+  color: aliceblue;
+}
+
+.nav-proyectos:hover {
+  background: none;
+  color: #6e07f3;
+}
+/*Header*/
+
+.header {
+  padding: 3em;
+}
+
+/*Footer*/
+footer {
+  padding: 20px;
+  background-color: #6e07f3;
+}
+
+.icono {
+  width: 2.5em;
+  margin-right: 1em;
+}
+
+.copyright p {
+  color: white;
+  text-align: center;
+  font-size: 16px;
+}
