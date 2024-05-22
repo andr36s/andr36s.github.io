@@ -26,8 +26,7 @@ p {
   background: rgb(255, 255, 255, 0.7);
   width: 100%;
   z-index: 100;
-  padding: 0.6em;
-  margin-top: 1em;
+  padding: 1.6em;
   border-bottom: 1px solid #355245;
 }
 
