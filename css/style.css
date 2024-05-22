@@ -11,6 +11,10 @@ h1 {
   font-size: 48px;
 }
 
+h2 {
+  padding: 1em;
+}
+
 p {
   font-family: "PT Sans", sans-serif;
   font-size: 18px;
@@ -57,7 +61,27 @@ p {
 /*Header*/
 
 .header {
-  padding: 3em;
+  padding: 2em;
+  padding-top: 3em;
+
+}
+
+/*Body*/
+.card-body a {
+  width: 100%;
+  background-color: #355245;
+  border-color: #355245;
+}
+
+.card-body a:hover,
+.card-body a:active,
+.card-body a:visited {
+  background-color: #648374;
+  border-color: #355245;
+}
+
+.container {
+  margin-bottom: 5em;
 }
 
 /*Footer*/
@@ -77,3 +101,4 @@ footer {
   text-align: center;
   font-size: 16px;
 }
+
