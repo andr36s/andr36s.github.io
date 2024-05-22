@@ -26,28 +26,28 @@ p {
 }
 
 .nav-link {
-  color: #6e07f3;
-  border: 3px solid #6e07f3;
+  color: #355245;
+  border: 3px solid #355245;
   font-size: 18px;
   border-radius: 3em;
   margin-right: 30px;
 }
 
 .nav-proyectos {
-  color: black;
+  color: #355245;
   border: none;
   border-radius: 3em;
   margin-right: 20px;
 }
 
 .nav-link:hover {
-  background-color: #6e07f3;
-  color: aliceblue;
+  background-color: #648374;
+  color: #E3E5D8;
 }
 
 .nav-proyectos:hover {
   background: none;
-  color: #6e07f3;
+  color: #648374;
 }
 /*Header*/
 
@@ -58,7 +58,7 @@ p {
 /*Footer*/
 footer {
   padding: 20px;
-  background-color: #6e07f3;
+  background-color: #355245;
 }
 
 .icono {
