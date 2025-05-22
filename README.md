@@ -1,6 +1,6 @@
 # 🧑‍💻 Portafolio de Andrés
 
-Bienvenido a mi portafolio como desarrollador. Este sitio está diseñado para mostrar mi evolución, mis proyectos y las áreas en las que actualmente me estoy formando y especializando.
+Bienvenido a mi portafolio. Este sitio está diseñado para mostrar mi evolución, mis proyectos y las áreas en las que actualmente me estoy formando y especializando.
 
 ## 🎯 Objetivo
 
